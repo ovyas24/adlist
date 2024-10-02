@@ -6,6 +6,7 @@
 # Title: Ovyas's Adlist
 # Expires: 1 day
 # Hosts contributed by Ovyas <ovyas24@gmail.com>
-# Domain count: 1
+# Domain count: 2
 # ===================================================================
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 securepubads.g.doubleclick.net
