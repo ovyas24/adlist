@@ -8,4 +8,4 @@
 # Hosts contributed by Ovyas <ovyas24@gmail.com>
 # Domain count: 1
 # ===================================================================
-0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 amazon-adsystem.com
