@@ -1,1 +1,11 @@
-https://c.amazon-adsystem.com
+# Host file to block ads, tracking and more! Updated daily
+# Homepage: https://github.com/ovyas24/adlist
+# Mirror: https://github.com/ovyas24/adlist/blob/main/block.txt
+# Release: https://github.com/ovyas24/adlist/releases
+# Licence: https://github.com/ovyas24/adlist/blob/main/LICENSE
+# Title: Ovyas's Adlist
+# Expires: 1 day
+# Hosts contributed by Ovyas <ovyas24@gmail.com>
+# Domain count: 1
+# ===================================================================
+0.0.0.0 c.amazon-adsystem.com
